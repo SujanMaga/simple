@@ -1,2 +1,6 @@
 This is my second project
+<<<<<<< HEAD
 Changes I am making
+=======
+From git hub changes
+>>>>>>> 7953d0c4f8daf450006d2901b8005ad892447b22
